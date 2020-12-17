@@ -1,0 +1,19 @@
+.form {
+  width: 50%;
+}
+
+#textTask {
+  width: 65%;
+}
+
+#addButton {
+  width: 25%;
+}
+
+.font-size-large {
+  font-size: 20px;
+}
+
+.block-view {
+  padding: 10px;
+}
